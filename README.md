@@ -1,1 +1,1 @@
-# ChatGPT-Study
+# OpenAI-Study
